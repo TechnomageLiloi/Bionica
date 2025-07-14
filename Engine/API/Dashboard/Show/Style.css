@@ -1,0 +1,27 @@
+#game-dashboard-show {
+  padding: 10px;
+  font-size: x-large;
+  text-align: center;
+}
+#game-dashboard-show .wrap-title {
+  color: black;
+}
+#game-dashboard-show .error {
+  color: red;
+}
+#game-dashboard-show table {
+  width: 100%;
+}
+#game-dashboard-show table td {
+  vertical-align: top;
+  width: 33%;
+}
+#game-dashboard-show .exercises {
+  float: left;
+}
+#game-dashboard-show .exercises .percentage {
+  position: absolute;
+  border: red 1px solid;
+  background-color: whitesmoke;
+  font-size: 12px;
+}

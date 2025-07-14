@@ -1,0 +1,21 @@
+#exercises-edit {
+  padding: 10px;
+}
+#exercises-edit table {
+  width: 100%;
+}
+#exercises-edit input,
+#exercises-edit textarea,
+#exercises-edit select {
+  width: 100%;
+  background-color: whitesmoke;
+  border: silver 1px solid;
+}
+#exercises-edit input:focus,
+#exercises-edit textarea:focus,
+#exercises-edit select:focus {
+  background-color: #ffffdd;
+}
+#exercises-edit textarea {
+  height: 300px;
+}

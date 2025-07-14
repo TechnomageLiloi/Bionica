@@ -1,0 +1,10 @@
+#exercises-collection {
+  padding: 10px;
+  font-size: x-large;
+}
+#exercises-collection table {
+  width: 100%;
+}
+#exercises-collection h1 {
+  text-align: center;
+}
